@@ -1,0 +1,32 @@
+languageCode = "en-us"
+title = "Aerial"
+baseurl = "http://example.org/"
+theme = "aerial"
+
+[params]
+  name = "David Dobrowski"
+  about = "Data Scientist &nbsp;&bull;&nbsp; Advocate &nbsp;&bull;&nbsp; Change Agent"
+  copyright = "Untitled"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "Facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/dobrowski/"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "mailto:dobrowski@gmail.com"
