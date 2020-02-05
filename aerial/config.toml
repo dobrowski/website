@@ -17,8 +17,8 @@ theme = "aerial"
   link = "#"
 
 [[params.social]]
-  medium = "Facebook"
-  icon = "facebook"
+  medium = "LinkedIn"
+  icon = "linkedin"
   link = "#"
 
 [[params.social]]
